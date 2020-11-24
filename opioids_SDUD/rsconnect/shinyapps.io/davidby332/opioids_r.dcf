@@ -1,0 +1,13 @@
+name: opioids_r
+title:
+username:
+account: davidby332
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3279597
+bundleId: 3897480
+url: https://davidby332.shinyapps.io/opioids_r/
+when: 1606177168.76207
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|base_data_formation.R|opioid_db.R|rank_maps.R|sdud.R|data/.DS_Store|data/CDC_Oral_Morphine_Milligram_Equivalents_Sept_2018 - Opioids.csv|data/CDC_Oral_Morphine_Milligram_Equivalents_Sept_2018.xlsx
